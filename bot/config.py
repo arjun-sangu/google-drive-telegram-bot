@@ -6,8 +6,8 @@ class config:
     SUDO_USERS = "1266733572" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/Gdrive_sapport"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "665081966568.apps.googleusercontent.com" #"1095863260406-e9phggkoamj56j0564amgcegvhuss4l8.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "ckGVrYYQ_GE7O4rL80ozlEXR" #"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"
+    G_DRIVE_CLIENT_ID = "197036948433-4sjgjrj1osm5b5neu8khh7c2nsvn96f7.apps.googleusercontent.com" #"1095863260406-e9phggkoamj56j0564amgcegvhuss4l8.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "dnXoMIu2V7HQ8G8RicrKmvlu" #"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"
 
 
 class BotCommands:
