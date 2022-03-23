@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "5059963749:AAGJnGdQYsWhP80jpC21yw43Dfln28F24Bo"
     APP_ID = "4738674"
     API_HASH = "f2be74eaa9b1cb32498f45d04e4dbb54"
-    DATABASE_URL = "postgres://jsabgjdqcgaujh:c844ee273aaf90ac48f90f5bb7f2b536ccb007081f3df9e7156d20f25511b750@ec2-52-86-177-34.compute-1.amazonaws.com:5432/dd014frh0v9tg9"
+    DATABASE_URL = "postgres://jqygguyzxhumvx:f5fd5797dc407b152c0f98d75675eb57b300bddce45598d2e91d9927272733e4@ec2-44-194-92-192.compute-1.amazonaws.com:5432/d231t8fihrijh5"
     SUDO_USERS = "1266733572" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/Gdrive_sapport"
     DOWNLOAD_DIRECTORY = "./downloads/"
